@@ -1,0 +1,45 @@
+{
+  "as_of": "2026-09-14",
+  "timezone": "GMT+2",
+  "bankroll": 10836.26,
+  "unsettled_exposure": 0.0,
+  "formal_approved_count": 0,
+  "formal_stake_yuan": 0.0,
+  "conditional_watch_count": 2,
+  "price_recheck_count": 8,
+  "score_policy": "84 for non-EPL and 88 for EPL; current reproducible score field unavailable, therefore no formal approvals",
+  "candidate_rows": [
+    {
+      "date_gmt2": "2026-09-14",
+      "kickoff_gmt2": "2026-09-14 21:00",
+      "home_team": "Villarreal",
+      "away_team": "Betis",
+      "b_direction": "H",
+      "b_probability": 0.5823230898598105,
+      "bayes_probability": 0.5471538594896511,
+      "reference_odds": 1.9523809523809523,
+      "min_odds_ev1pct": 1.7344323410619853,
+      "ev_at_reference": 0.1369165087739157,
+      "live_recheck_low": 1.7344323410619853,
+      "live_recheck_high": 2.0,
+      "status": "条件观察"
+    },
+    {
+      "date_gmt2": "2026-09-18",
+      "kickoff_gmt2": "2026-09-18 21:00",
+      "home_team": "Espanyol",
+      "away_team": "Elche",
+      "b_direction": "H",
+      "b_probability": 0.6222024534870855,
+      "bayes_probability": 0.5085953372919766,
+      "reference_odds": 1.75,
+      "min_odds_ev1pct": 1.623265858788459,
+      "ev_at_reference": 0.08885429360239949,
+      "live_recheck_low": 1.623265858788459,
+      "live_recheck_high": 2.0,
+      "status": "条件观察"
+    }
+  ],
+  "output": "/home/ubuntu/football_betting_backtest/output/sep14_sep18_2026_preapproval.csv",
+  "daily_output": "/home/ubuntu/football_betting_backtest/output/sep14_sep18_2026_daily_summary.csv"
+}
