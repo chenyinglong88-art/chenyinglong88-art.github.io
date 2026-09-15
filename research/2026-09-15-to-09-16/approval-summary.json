@@ -1,0 +1,45 @@
+{
+  "as_of": "2026-09-15 20:41 GMT+2",
+  "bankroll_cny": 10836.26,
+  "open_exposure_cny": 0.0,
+  "matches_modelled": 7,
+  "formal_approved_count": 0,
+  "formal_stake_cny": 0.0,
+  "score_threshold": 84,
+  "score_available": false,
+  "today_remaining": [
+    {
+      "home_team": "Elche",
+      "away_team": "Real Madrid",
+      "status": "拒绝",
+      "reason": "低于用户1.50最低赔率"
+    }
+  ],
+  "tomorrow": [
+    {
+      "home_team": "Ath Madrid",
+      "away_team": "Osasuna",
+      "status": "拒绝",
+      "reason": "低于用户1.50最低赔率"
+    },
+    {
+      "home_team": "La Coruna",
+      "away_team": "Sevilla",
+      "status": "拒绝",
+      "reason": "高于西甲主胜扩展2.00上限"
+    },
+    {
+      "home_team": "Barcelona",
+      "away_team": "Racing Santander",
+      "status": "拒绝",
+      "reason": "低于用户1.50最低赔率"
+    },
+    {
+      "home_team": "Levante",
+      "away_team": "Athletic Club",
+      "status": "拒绝",
+      "reason": "高于西甲主胜扩展2.00上限"
+    }
+  ],
+  "europa_policy": "9 Europa League fixtures reviewed as schedule/market observations only; no frozen cross-competition model or reproducible score chain"
+}
