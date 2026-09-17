@@ -1,0 +1,63 @@
+{
+  "as_of": "2026-09-17 23:24 GMT+2",
+  "bankroll_cny": 10836.26,
+  "available_cash_cny": 10836.26,
+  "open_exposure_cny": 0.0,
+  "matches_modelled": 6,
+  "formal_approved_count": 0,
+  "formal_stake_cny": 0.0,
+  "score_available": false,
+  "today": [
+    {
+      "home_team": "Malaga",
+      "away_team": "Villarreal",
+      "status": "已开赛，不追场",
+      "reason": "冻结模型只授权赛前审批，禁止补时或场中追注"
+    }
+  ],
+  "tomorrow": [
+    {
+      "home_team": "Bayern Munich",
+      "away_team": "Union Berlin",
+      "status": "拒绝",
+      "reason": "低于用户1.50最低赔率"
+    },
+    {
+      "home_team": "Monaco",
+      "away_team": "Lens",
+      "status": "拒绝",
+      "reason": "模型方向为客胜；客胜不在锁定正式权限"
+    },
+    {
+      "home_team": "Monza",
+      "away_team": "Sassuolo",
+      "status": "拒绝",
+      "reason": "模型方向为客胜；客胜不在锁定正式权限"
+    },
+    {
+      "home_team": "Brentford",
+      "away_team": "Chelsea",
+      "status": "拒绝",
+      "reason": "高于锁定扩展2.00赔率上限"
+    },
+    {
+      "home_team": "Espanyol",
+      "away_team": "Elche",
+      "status": "条件观察，未批准",
+      "reason": "价格与模型门槛通过，但可复现总分和正式首发均未通过"
+    }
+  ],
+  "price_model_watchlist": [
+    {
+      "home_team": "Espanyol",
+      "away_team": "Elche",
+      "reference_odds": 1.8333333333333335,
+      "min_odds_ev1pct": 1.6556853734306827,
+      "ev_at_reference": 0.11836868065694084,
+      "required_score": 84,
+      "reason": "价格与模型门槛通过，但可复现总分和正式首发均未通过"
+    }
+  ],
+  "other_leagues_policy": "Non-five-league fixtures are not eligible because no frozen league/competition model and reproducible score chain exist.",
+  "data_quality_note": "Monaco-Lens official date is 2026-09-18; Understat listed it one day late, so an audited fixture-only override was used while team states remained frozen before 2026-09-17."
+}
