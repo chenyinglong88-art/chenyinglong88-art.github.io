@@ -1,0 +1,40 @@
+{
+  "as_of": "2026-09-21 00:58 GMT+2",
+  "scope": "User screenshot UEFA Nations League fixtures, 2026-09-24 through 2026-09-28",
+  "bankroll_cny": 10836.26,
+  "open_exposure_cny": 0.0,
+  "fixtures_with_complete_odds": 40,
+  "formal_approved_count": 0,
+  "formal_stake_cny": 0.0,
+  "pure_ranking_score_leader": {
+    "match": "Denmark vs Wales",
+    "selection": "Denmark home win",
+    "odds": 1.68,
+    "ranking_score": 77.18484957970858,
+    "risk_adjusted_score": 71.18484957970858,
+    "status": "Defer until after 2026-09-24 first matchday"
+  },
+  "current_first_matchday_priority": {
+    "match": "Turkey vs France",
+    "selection": "France away win",
+    "odds": 1.5,
+    "ranking_score": 73.66993286193846,
+    "risk_adjusted_score": 68.66993286193846,
+    "status": "Observation only, not formally approved"
+  },
+  "secondary_observations": [
+    {
+      "match": "Poland vs Bosnia and Herzegovina",
+      "selection": "Poland home win",
+      "odds": 1.57,
+      "risk_adjusted_score": 67.22311423732486
+    },
+    {
+      "match": "Norway vs Denmark",
+      "selection": "Norway home win",
+      "odds": 1.75,
+      "risk_adjusted_score": 61.29425107498814
+    }
+  ],
+  "formal_blocker": "No frozen, historically validated Nations League model; ranking score is a transparent but unbacktested heuristic; lineups are not confirmed."
+}

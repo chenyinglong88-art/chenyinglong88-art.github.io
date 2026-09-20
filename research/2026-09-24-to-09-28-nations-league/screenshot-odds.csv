@@ -1,0 +1,43 @@
+date,kickoff_gmt2,league,home_team,away_team,home_odds,draw_odds,away_odds,source
+2026-09-24,18:00,D,Andorra,Malta,3.60,2.65,2.35,user_screenshot
+2026-09-24,20:45,A,Netherlands,Germany,2.25,3.60,2.80,user_screenshot
+2026-09-24,20:45,A,Serbia,Greece,2.60,3.30,2.60,user_screenshot
+2026-09-24,20:45,A,Norway,Denmark,1.75,3.75,4.33,user_screenshot
+2026-09-24,20:45,A,Portugal,Wales,1.22,5.75,13.00,user_screenshot
+2026-09-24,20:45,B,Austria,Israel,1.38,4.50,7.00,user_screenshot
+2026-09-24,20:45,B,Kosovo,Ireland,2.55,3.10,2.63,user_screenshot
+2026-09-24,20:45,D,Liechtenstein,Lithuania,10.00,5.25,1.25,user_screenshot
+2026-09-25,18:00,B,Georgia,Northern Ireland,1.80,3.50,4.00,user_screenshot
+2026-09-25,18:00,C,Armenia,Latvia,1.67,3.70,4.75,user_screenshot
+2026-09-25,20:45,A,Italy,Belgium,2.15,3.50,3.10,user_screenshot
+2026-09-25,20:45,A,Turkey,France,5.25,4.50,1.50,user_screenshot
+2026-09-25,20:45,B,Hungary,Ukraine,2.15,3.20,3.20,user_screenshot
+2026-09-25,20:45,B,Poland,Bosnia and Herzegovina,1.57,3.80,5.00,user_screenshot
+2026-09-25,20:45,B,Sweden,Romania,1.53,4.20,5.25,user_screenshot
+2026-09-25,20:45,C,Montenegro,Cyprus,1.47,3.95,6.90,user_screenshot
+2026-09-26,15:00,B,Slovenia,Scotland,2.55,3.00,2.80,user_screenshot
+2026-09-26,18:00,C,San Marino,Finland,28.00,8.75,1.07,user_screenshot
+2026-09-26,18:00,C,Faroe Islands,Kazakhstan,2.50,3.05,2.82,user_screenshot
+2026-09-26,18:00,C,Bulgaria,Luxembourg,1.98,3.15,3.90,user_screenshot
+2026-09-26,18:00,C,Iceland,Estonia,1.33,4.45,9.60,user_screenshot
+2026-09-26,20:45,A,Czech Republic,Croatia,3.10,3.50,2.15,user_screenshot
+2026-09-26,20:45,A,England,Spain,2.75,3.30,2.50,user_screenshot
+2026-09-26,20:45,B,North Macedonia,Switzerland,7.00,4.75,1.36,user_screenshot
+2026-09-26,20:45,C,Albania,Belarus,1.40,4.25,7.70,user_screenshot
+2026-09-26,20:45,C,Slovakia,Moldova,1.30,5.00,10.00,user_screenshot
+2026-09-27,15:00,D,Lithuania,Azerbaijan,2.60,2.95,2.70,user_screenshot
+2026-09-27,18:00,A,Serbia,Netherlands,4.30,3.80,1.74,user_screenshot
+2026-09-27,18:00,A,Denmark,Wales,1.68,3.70,4.90,user_screenshot
+2026-09-27,18:00,B,Austria,Kosovo,1.44,4.35,6.40,user_screenshot
+2026-09-27,18:00,D,Gibraltar,Andorra,2.70,2.70,2.75,user_screenshot
+2026-09-27,20:45,A,Germany,Greece,1.23,5.55,13.00,user_screenshot
+2026-09-27,20:45,A,Norway,Portugal,2.85,3.60,2.28,user_screenshot
+2026-09-27,20:45,B,Israel,Ireland,2.95,3.35,2.28,user_screenshot
+2026-09-28,18:00,B,Georgia,Ukraine,2.82,3.30,2.37,user_screenshot
+2026-09-28,20:45,A,Belgium,France,3.25,3.65,2.05,user_screenshot
+2026-09-28,20:45,A,Turkey,Italy,2.90,3.35,2.34,user_screenshot
+2026-09-28,20:45,B,Northern Ireland,Hungary,2.55,3.05,2.77,user_screenshot
+2026-09-28,20:45,B,Romania,Bosnia and Herzegovina,1.96,3.50,3.50,user_screenshot
+2026-09-28,20:45,B,Sweden,Poland,1.91,3.60,3.60,user_screenshot
+2026-09-28,18:00,C,Armenia,Montenegro,,,,user_screenshot_no_odds
+2026-09-28,18:00,C,Latvia,Cyprus,,,,user_screenshot_no_odds
