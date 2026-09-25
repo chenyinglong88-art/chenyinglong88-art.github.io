@@ -1,0 +1,40 @@
+{
+  "as_of": "2026-09-25T11:07:00+02:00",
+  "timezone": "GMT+2",
+  "account": {
+    "bankroll_equity_cny": 10836.26,
+    "available_cash_cny": 10836.26,
+    "open_exposure_cny": 0.0,
+    "daily_cap_cny": 1300.35
+  },
+  "round1_results_updated": 8,
+  "round1_results": [
+    "Andorra 1-2 Malta",
+    "Netherlands 1-1 Germany",
+    "Serbia 1-2 Greece",
+    "Norway 3-2 Denmark",
+    "Portugal 1-0 Wales",
+    "Austria 3-1 Israel",
+    "Kosovo 1-0 Republic of Ireland",
+    "Liechtenstein 0-2 Lithuania"
+  ],
+  "fixtures_reviewed": 12,
+  "formal_approved_count": 0,
+  "formal_stake_cny": 0.0,
+  "today_priority": [
+    "Poland主胜@1.571",
+    "Georgia主胜@1.83"
+  ],
+  "next_priority": [
+    "Austria主胜@1.513（须等首发）",
+    "Croatia客胜@2.10（高风险）"
+  ],
+  "price_exclusions": [
+    "France客胜@1.313",
+    "Sweden主胜@1.408",
+    "Denmark主胜@1.455",
+    "Netherlands客胜@1.408",
+    "Germany主胜@1.392"
+  ],
+  "policy": "全部仅观察。欧国联不在冻结正式B版权限内，且无可复现84分评分链。"
+}
