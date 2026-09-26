@@ -1,0 +1,55 @@
+﻿date,home_team,away_team,espn_time_et,espn_game_id,quoted_selection_code,american_odds,decimal_odds,full_1x2_visible_on_schedule,source,observed_at
+2026-09-26,Slovenia,Scotland,9:00 AM,401861057,SVN,145.0,2.45,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-26,Bulgaria,Luxembourg,12:00 PM,401861061,BUL,130.0,2.3,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-26,Faroe Islands,Kazakhstan,12:00 PM,401861060,FRO,125.0,2.25,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-26,Iceland,Estonia,12:00 PM,401861058,ISL,-370.0,1.27027,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-26,San Marino,Finland,12:00 PM,401861059,FIN,-1400.0,1.071429,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-26,Albania,Belarus,2:45 PM,401861062,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-26,Czechia,Croatia,2:45 PM,401861063,CRO,110.0,2.1,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-26,England,Spain,2:45 PM,401861066,ESP,110.0,2.1,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-26,North Macedonia,Switzerland,2:45 PM,401861065,SUI,-260.0,1.384615,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-26,Slovakia,Moldova,2:45 PM,401861064,SVK,-650.0,1.153846,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-27,Lithuania,Azerbaijan,9:00 AM,401861067,LTU,145.0,2.45,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-27,Austria,Kosovo,12:00 PM,401861071,AUT,-195.0,1.512821,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-27,Denmark,Wales,12:00 PM,401861070,DEN,-225.0,1.444444,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-27,Gibraltar,Andorra,12:00 PM,401861069,AND,130.0,2.3,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-27,Serbia,Netherlands,12:00 PM,401861068,NED,-240.0,1.416667,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-27,Germany,Greece,2:45 PM,401861074,GER,-255.0,1.392157,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-27,Israel,Republic of Ireland,2:45 PM,401861072,IRL,135.0,2.35,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-27,Norway,Portugal,2:45 PM,401861073,NOR,135.0,2.35,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-28,Armenia,Montenegro,12:00 PM,401861076,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-28,Georgia,Ukraine,12:00 PM,401861075,GEO,155.0,2.55,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-28,Latvia,Cyprus,12:00 PM,401861082,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-28,Belgium,France,2:45 PM,401861081,FRA,-120.0,1.833333,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-28,Northern Ireland,Hungary,2:45 PM,401861079,NIR,170.0,2.7,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-28,Romania,Bosnia-Herzegovina,2:45 PM,401861078,ROU,110.0,2.1,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-28,Sweden,Poland,2:45 PM,401861080,SWE,-110.0,1.909091,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-28,Türkiye,Italy,2:45 PM,401861077,ITA,150.0,2.5,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-29,Finland,Belarus,12:00 PM,401861089,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-29,Moldova,Faroe Islands,12:00 PM,401861090,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-29,Bulgaria,Estonia,2:45 PM,401861083,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-29,Czechia,England,2:45 PM,401861092,ENG,-240.0,1.416667,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-29,Luxembourg,Iceland,2:45 PM,401861086,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-29,San Marino,Albania,2:45 PM,401861088,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-29,Scotland,Switzerland,2:45 PM,401861091,SUI,110.0,2.1,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-29,Slovakia,Kazakhstan,2:45 PM,401861085,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-29,Slovenia,North Macedonia,2:45 PM,401861087,SVN,-155.0,1.645161,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-09-29,Spain,Croatia,2:45 PM,401861084,ESP,-330.0,1.30303,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-10-01,Azerbaijan,Liechtenstein,12:00 PM,401861093,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-10-01,Denmark,Portugal,2:45 PM,401861096,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-10-01,Germany,Serbia,2:45 PM,401861097,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-10-01,Greece,Netherlands,2:45 PM,401861098,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-10-01,Israel,Kosovo,2:45 PM,401861095,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-10-01,Malta,Gibraltar,2:45 PM,401861099,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-10-01,Republic of Ireland,Austria,2:45 PM,401861094,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-10-01,Wales,Norway,2:45 PM,401861100,,,,False,https://www.espn.com/soccer/schedule/_/league/uefa.nations,2026-09-26 07:27 GMT+2
+2026-10-02,Kazakhstan,Moldova,,,,,,False,https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/,2026-09-26 07:27 GMT+2
+2026-10-02,Cyprus,Armenia,,,,,,False,https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/,2026-09-26 07:27 GMT+2
+2026-10-02,Belgium,Turkey,,,,,,False,https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/,2026-09-26 07:27 GMT+2
+2026-10-02,France,Italy,,,,,,False,https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/,2026-09-26 07:27 GMT+2
+2026-10-02,Hungary,Georgia,,,,,,False,https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/,2026-09-26 07:27 GMT+2
+2026-10-02,Ukraine,Northern Ireland,,,,,,False,https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/,2026-09-26 07:27 GMT+2
+2026-10-02,Bosnia and Herzegovina,Sweden,,,,,,False,https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/,2026-09-26 07:27 GMT+2
+2026-10-02,Poland,Romania,,,,,,False,https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/,2026-09-26 07:27 GMT+2
+2026-10-02,Latvia,Montenegro,,,,,,False,https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/,2026-09-26 07:27 GMT+2
+2026-10-02,Faroe Islands,Slovakia,,,,,,False,https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures/,2026-09-26 07:27 GMT+2
