@@ -1,0 +1,52 @@
+{
+  "as_of": "2026-09-29T11:10:00+02:00",
+  "results_updated_through": "2026-09-28T22:40:00+02:00",
+  "completed_observation_outcomes": {
+    "2026-09-28_Sweden主胜": "命中：3-1；未批准、未下注",
+    "2026-09-28_Northern_Ireland主胜": "未命中：0-0；未批准、未下注",
+    "2026-09-28_Romania主胜": "未命中：2-4；未批准、未下注"
+  },
+  "tracked_observation_record": {
+    "wins": 4,
+    "losses": 4,
+    "bets_executed": 0
+  },
+  "future_window": [
+    "2026-09-29",
+    "2026-10-05"
+  ],
+  "future_fixtures_checked": 50,
+  "schedule_visible_public_lines": 17,
+  "fully_audited_candidates": 8,
+  "formal_approved_count": 0,
+  "formal_stake_cny": 0.0,
+  "bankroll_equity_cny": 10836.26,
+  "available_cash_cny": 10836.26,
+  "open_exposure_cny": 0.0,
+  "today_low_priority_watch": [
+    {
+      "rank": 1,
+      "selection": "Switzerland客胜",
+      "odds": 1.833,
+      "condition": "官方首发确认核心结构无进一步降级；不低于1.80"
+    },
+    {
+      "rank": 2,
+      "selection": "Slovenia主胜",
+      "odds": 1.625,
+      "condition": "无新增关键缺阵且Drkušić可用；不低于1.60"
+    }
+  ],
+  "later_week_recheck": [
+    "Portugal客胜",
+    "Austria客胜",
+    "Montenegro客胜",
+    "Netherlands客胜"
+  ],
+  "excluded": [
+    "Iceland客胜",
+    "Norway客胜"
+  ],
+  "deferred_oct3_oct5": 24,
+  "policy": "全部为欧国联非正式观察；无冻结国家队模型和可复现84分评分链；不计算EV/Kelly，不给出下注金额。"
+}
