@@ -1,0 +1,142 @@
+{
+  "as_of": "2026-10-06 21:00 GMT+2",
+  "bankroll_cny": 10836.26,
+  "open_exposure_cny": 0.0,
+  "normal_cap_cny": 541.81,
+  "daily_cap_cny": 1300.35,
+  "matches_modelled": 48,
+  "matches_priced": 47,
+  "formal_approved_count": 0,
+  "formal_stake_cny": 0.0,
+  "score_available": false,
+  "asian_minus_1_25_available": false,
+  "conditional_watchlist": [
+    {
+      "rank": 1,
+      "kickoff_gmt2": "2026-10-10 18:30",
+      "league": "英超",
+      "home_team": "Man United",
+      "away_team": "Tottenham",
+      "selection_cn": "主胜",
+      "odds": 1.7142857142857144,
+      "best_uk_odds": 1.7272727272727273,
+      "p_b": 0.6172669916553254,
+      "p_bayes_same": 0.5558001328370564,
+      "ev_b": 0.0581719856948435,
+      "ev_bayes": -0.04719977227933181,
+      "min_odds_ev1pct": 1.63624495340579,
+      "reason": "价格与模型门槛通过，但可复现总分（英超88/其他84）与正式首发未通过"
+    },
+    {
+      "rank": 2,
+      "kickoff_gmt2": "2026-10-10 18:30",
+      "league": "德甲",
+      "home_team": "RB Leipzig",
+      "away_team": "Ein Frankfurt",
+      "selection_cn": "主胜",
+      "odds": 1.526315789473684,
+      "best_uk_odds": 1.5714285714285714,
+      "p_b": 0.7084034038103953,
+      "p_bayes_same": 0.5862163461877147,
+      "ev_b": 0.08124730055270857,
+      "ev_bayes": -0.10524873476611973,
+      "min_odds_ev1pct": 1.4257413142954452,
+      "reason": "DraftKings 1.526高于核心1.50上限；仅在可成交价恰为1.50时进入核心区（B EV +6.26%），但贝叶斯EV -12.07%、模型差12.2pp、总分不可复现"
+    }
+  ],
+  "high_ev_not_authorised": [
+    {
+      "kickoff_gmt2": "2026-10-10 16:15",
+      "league": "西甲",
+      "home_team": "Alaves",
+      "away_team": "Ath Madrid",
+      "selection_cn": "主胜",
+      "odds": 4.1,
+      "ev_b": 0.7195862254157275,
+      "ev_bayes": 0.38044940380744063,
+      "reason": "高于锁定扩展2.00上限"
+    },
+    {
+      "kickoff_gmt2": "2026-10-09 20:45",
+      "league": "法甲",
+      "home_team": "Lens",
+      "away_team": "Lyon",
+      "selection_cn": "主胜",
+      "odds": 2.4,
+      "ev_b": 0.6546438146199538,
+      "ev_bayes": 0.28711086645135997,
+      "reason": "非英超/西甲且赔率高于核心1.50上限"
+    },
+    {
+      "kickoff_gmt2": "2026-10-12 21:00",
+      "league": "西甲",
+      "home_team": "Levante",
+      "away_team": "Sevilla",
+      "selection_cn": "主胜",
+      "odds": 2.65,
+      "ev_b": 0.6295190383188327,
+      "ev_bayes": 0.274435704328426,
+      "reason": "高于锁定扩展2.00上限"
+    },
+    {
+      "kickoff_gmt2": "2026-10-12 21:00",
+      "league": "英超",
+      "home_team": "Coventry",
+      "away_team": "Newcastle",
+      "selection_cn": "主胜",
+      "odds": 3.3,
+      "ev_b": 0.5733110246927715,
+      "ev_bayes": 0.23725773548533047,
+      "reason": "高于锁定扩展2.00上限"
+    },
+    {
+      "kickoff_gmt2": "2026-10-11 15:00",
+      "league": "英超",
+      "home_team": "Hull",
+      "away_team": "Everton",
+      "selection_cn": "主胜",
+      "odds": 3.65,
+      "ev_b": 0.54372985365682,
+      "ev_bayes": 0.38397622494877925,
+      "reason": "高于锁定扩展2.00上限"
+    },
+    {
+      "kickoff_gmt2": "2026-10-10 14:00",
+      "league": "西甲",
+      "home_team": "Vallecano",
+      "away_team": "Athletic Club",
+      "selection_cn": "主胜",
+      "odds": 2.85,
+      "ev_b": 0.4846178201125757,
+      "ev_bayes": 0.08245222119418827,
+      "reason": "高于锁定扩展2.00上限"
+    },
+    {
+      "kickoff_gmt2": "2026-10-10 15:00",
+      "league": "意甲",
+      "home_team": "Genoa",
+      "away_team": "Fiorentina",
+      "selection_cn": "主胜",
+      "odds": 3.05,
+      "ev_b": 0.41221467019321745,
+      "ev_bayes": 0.1901772989781063,
+      "reason": "非英超/西甲且赔率高于核心1.50上限"
+    },
+    {
+      "kickoff_gmt2": "2026-10-10 16:00",
+      "league": "英超",
+      "home_team": "Aston Villa",
+      "away_team": "Brentford",
+      "selection_cn": "主胜",
+      "odds": 2.7,
+      "ev_b": 0.3343775091123602,
+      "ev_bayes": -0.06057360400540979,
+      "reason": "高于锁定扩展2.00上限"
+    }
+  ],
+  "status_counts": {
+    "拒绝": 45,
+    "条件观察，未批准": 2,
+    "无报价": 1
+  }
+}
