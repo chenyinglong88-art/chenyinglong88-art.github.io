@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-10-22T15:40:00+02:00",
+  "scope": "欧联18场+欧协联17场（用户截图），赔率>=1.50方向",
+  "fixtures_scored": 35,
+  "candidates_odds_ge_150": 21,
+  "calibration_official_minus_approx_pp": -1.96,
+  "clubelo_draw_minus_market_pp": 4.24,
+  "score84_pass": 0,
+  "formal_approved": 0,
+  "formal_stake_cny": 0,
+  "top3": [
+    {
+      "risk_rank": 1,
+      "match": "Olympiacos vs Sparta Praha",
+      "selection": "Olympiacos 主胜",
+      "user_platform_odds": 1.5,
+      "risk_adjusted_score": 67.81,
+      "ev_user_price": -0.1
+    },
+    {
+      "risk_rank": 2,
+      "match": "Midtjylland vs Sint-Truiden",
+      "selection": "Midtjylland 主胜",
+      "user_platform_odds": 1.75,
+      "risk_adjusted_score": 62.97,
+      "ev_user_price": 0.0217
+    },
+    {
+      "risk_rank": 3,
+      "match": "Pafos vs Riga FC",
+      "selection": "Pafos 主胜",
+      "user_platform_odds": 1.62,
+      "risk_adjusted_score": 62.54,
+      "ev_user_price": -0.0629
+    }
+  ]
+}
