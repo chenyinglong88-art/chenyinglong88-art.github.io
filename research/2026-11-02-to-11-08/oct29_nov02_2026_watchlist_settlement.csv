@@ -1,0 +1,8 @@
+﻿group,rank,date,match,selection,odds_at_review,final_score,status,hit,hypo_flat_100_pnl
+风险观察榜（上周）,1.0,2026-10-31,Bayer Leverkusen vs VfB Stuttgart,主胜,1.769,2–4,STATUS_FULL_TIME,未中,-100.0
+风险观察榜（上周）,2.0,2026-10-31,AFC Bournemouth vs Leeds United,主胜,2.15,2–0,STATUS_FULL_TIME,命中,115.0
+风险观察榜（上周）,3.0,2026-10-31,Hull City vs Ipswich Town,主胜,2.65,2–2,STATUS_FULL_TIME,未中,-100.0
+风险观察榜（上周）,4.0,2026-11-01,Athletic Club vs Real Sociedad,主胜,2.1,2–1,STATUS_FULL_TIME,命中,110.0
+风险观察榜（上周）,5.0,2026-10-31,Manchester City vs Brighton & Hove Albion,主胜,1.645,0–1,STATUS_FULL_TIME,未中,-100.0
+低于1.50被排除（B版EV>0）,,2026-11-01,Como vs Venezia,主胜,1.27,1–0,STATUS_FULL_TIME,命中,27.0
+低于1.50被排除（B版EV>0）,,2026-11-01,Lyon vs Angers,主胜,1.385,2–0,STATUS_FULL_TIME,命中,38.5

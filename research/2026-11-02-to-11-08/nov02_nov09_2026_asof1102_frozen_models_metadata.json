@@ -1,0 +1,46 @@
+{
+  "target_start": "2026-11-02",
+  "target_end": "2026-11-09",
+  "as_of_date": "2026-11-02",
+  "forecast_policy": "All horizon fixtures use states frozen before AS_OF and are predicted in one batch; refresh each matchday before approval",
+  "fixture_count": 53,
+  "historical_source": "/home/ubuntu/football_betting_backtest/output/dynamic_bayes_frozen_predictions.csv.gz",
+  "understat_fresh_completed_added": {
+    "E0": 70,
+    "D1": 63,
+    "I1": 77,
+    "SP1": 89,
+    "F1": 64
+  },
+  "understat_source": {
+    "EPL": "CACHED_FALLBACK:EPL_2026_live_asof_2026-10-29.json (ConnectionError)",
+    "Bundesliga": "CACHED_FALLBACK:Bundesliga_2026_live_asof_2026-10-29.json (ConnectionError)",
+    "Serie_A": "CACHED_FALLBACK:Serie_A_2026_live_asof_2026-10-29.json (ConnectionError)",
+    "La_liga": "CACHED_FALLBACK:La_liga_2026_live_asof_2026-10-29.json (ConnectionError)",
+    "Ligue_1": "CACHED_FALLBACK:Ligue_1_2026_live_asof_2026-10-29.json (ConnectionError)"
+  },
+  "understat_last_completed_match": {
+    "EPL": "2026-10-25 16:30:00",
+    "Bundesliga": "2026-10-25 16:30:00",
+    "Serie_A": "2026-10-28 17:30:00",
+    "La_liga": "2026-10-26 20:00:00",
+    "Ligue_1": "2026-10-25 19:45:00"
+  },
+  "b_model": {
+    "alpha": 0.14,
+    "base_rate": 0.012,
+    "same_day_policy": "update after date batch"
+  },
+  "bayes_params": {
+    "obs": "xg",
+    "prior_strength": 16.0,
+    "delta_attack": 0.97,
+    "delta_defence": 0.985,
+    "season_retention": 0.85,
+    "rho": -0.1,
+    "q_intercept": 0.00015,
+    "obs_scale": 1.0,
+    "max_goals": 10
+  },
+  "output": "/home/ubuntu/football_betting_backtest/output/nov02_nov09_2026_asof1102_frozen_models.csv"
+}

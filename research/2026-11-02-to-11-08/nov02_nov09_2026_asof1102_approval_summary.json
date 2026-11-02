@@ -1,0 +1,154 @@
+{
+  "as_of": "2026-11-02 10:00 CET (GMT+1)",
+  "bankroll_cny": 10836.26,
+  "open_exposure_cny": 0.0,
+  "normal_cap_cny": 541.81,
+  "daily_cap_cny": 1300.35,
+  "matches_modelled": 53,
+  "matches_priced": 52,
+  "formal_approved_count": 0,
+  "formal_stake_cny": 0.0,
+  "score_available": false,
+  "data_quality": {
+    "understat_status": "understat.com DNS unreachable 2026-11-02 (NXDOMAIN / No Reachable Authority); model uses cached 2026-10-29 snapshot",
+    "understat_last_completed": {
+      "EPL": "2026-10-25",
+      "LaLiga": "2026-10-26",
+      "Bundesliga": "2026-10-25",
+      "SerieA": "2026-10-28",
+      "Ligue1": "2026-10-25"
+    },
+    "missing_round": "2026-10-29..11-01 completed five-league matches not in B/Bayes state",
+    "formal_gate": "data-stale block: no formal approval regardless of price"
+  },
+  "asian_minus_1_25_available": false,
+  "conditional_watchlist": [
+    {
+      "rank": 1,
+      "kickoff_gmt2": "2026-11-08 15:00",
+      "league": "英超",
+      "home_team": "Brighton",
+      "away_team": "Brentford",
+      "selection_cn": "主胜",
+      "odds": 1.9090909090909087,
+      "best_uk_odds": null,
+      "p_b": 0.7001940562586927,
+      "p_bayes_same": 0.4598519269725222,
+      "ev_b": 0.3367341074029586,
+      "ev_bayes": -0.12210086668882147,
+      "min_odds_ev1pct": 1.4424572602010874,
+      "reason": "价格与模型门槛通过，但可复现总分（英超88/其他84）与正式首发未通过"
+    },
+    {
+      "rank": 2,
+      "kickoff_gmt2": "2026-11-08 18:30",
+      "league": "西甲",
+      "home_team": "Celta Vigo",
+      "away_team": "Levante",
+      "selection_cn": "主胜",
+      "odds": 1.7692307692307692,
+      "best_uk_odds": null,
+      "p_b": 0.5777070215957897,
+      "p_bayes_same": 0.3967600154721714,
+      "ev_b": 0.022097038207935515,
+      "ev_bayes": -0.29803997262615833,
+      "min_odds_ev1pct": 1.7482910233808397,
+      "reason": "价格与模型门槛通过，但可复现总分（英超88/其他84）与正式首发未通过"
+    }
+  ],
+  "high_ev_not_authorised": [
+    {
+      "kickoff_gmt2": "2026-11-07 18:30",
+      "league": "西甲",
+      "home_team": "Osasuna",
+      "away_team": "Athletic Club",
+      "selection_cn": "主胜",
+      "odds": 3.25,
+      "ev_b": 0.9609350006081274,
+      "ev_bayes": 0.20935782011722792,
+      "reason": "高于锁定扩展2.00上限"
+    },
+    {
+      "kickoff_gmt2": "2026-11-08 15:30",
+      "league": "德甲",
+      "home_team": "FC Koln",
+      "away_team": "Leverkusen",
+      "selection_cn": "主胜",
+      "odds": 3.95,
+      "ev_b": 0.7847819945230499,
+      "ev_bayes": 0.2772254303979842,
+      "reason": "非英超/西甲且赔率高于核心1.50上限"
+    },
+    {
+      "kickoff_gmt2": "2026-11-08 17:15",
+      "league": "法甲",
+      "home_team": "Brest",
+      "away_team": "Lyon",
+      "selection_cn": "主胜",
+      "odds": 2.8,
+      "ev_b": 0.612959005794594,
+      "ev_bayes": 0.11454365404316813,
+      "reason": "非英超/西甲且赔率高于核心1.50上限"
+    },
+    {
+      "kickoff_gmt2": "2026-11-08 17:15",
+      "league": "法甲",
+      "home_team": "Angers",
+      "away_team": "Nice",
+      "selection_cn": "主胜",
+      "odds": 3.4,
+      "ev_b": 0.3654906927354893,
+      "ev_bayes": 0.19055923567721322,
+      "reason": "非英超/西甲且赔率高于核心1.50上限"
+    },
+    {
+      "kickoff_gmt2": "2026-11-08 15:00",
+      "league": "英超",
+      "home_team": "Sunderland",
+      "away_team": "Chelsea",
+      "selection_cn": "主胜",
+      "odds": 3.5,
+      "ev_b": 0.2988447252248063,
+      "ev_bayes": 0.06780621939578468,
+      "reason": "高于锁定扩展2.00上限"
+    },
+    {
+      "kickoff_gmt2": "2026-11-02 18:30",
+      "league": "意甲",
+      "home_team": "Sassuolo",
+      "away_team": "Fiorentina",
+      "selection_cn": "主胜",
+      "odds": 2.7,
+      "ev_b": 0.25147358485306825,
+      "ev_bayes": 0.06202375038147645,
+      "reason": "非英超/西甲且赔率高于核心1.50上限"
+    },
+    {
+      "kickoff_gmt2": "2026-11-08 18:00",
+      "league": "意甲",
+      "home_team": "Inter",
+      "away_team": "Como",
+      "selection_cn": "主胜",
+      "odds": 1.7407407407407407,
+      "ev_b": 0.1895124422157919,
+      "ev_bayes": -0.03888970459928598,
+      "reason": "非英超/西甲且赔率高于核心1.50上限"
+    },
+    {
+      "kickoff_gmt2": "2026-11-08 20:45",
+      "league": "法甲",
+      "home_team": "Lens",
+      "away_team": "Marseille",
+      "selection_cn": "主胜",
+      "odds": 2.05,
+      "ev_b": 0.18493261560672125,
+      "ev_bayes": 0.16208086039295022,
+      "reason": "非英超/西甲且赔率高于核心1.50上限"
+    }
+  ],
+  "status_counts": {
+    "拒绝": 50,
+    "条件观察，未批准": 2,
+    "无报价": 1
+  }
+}

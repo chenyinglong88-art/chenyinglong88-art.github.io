@@ -1,0 +1,27 @@
+{
+  "purpose": "sensitivity-only supplement for Understat DNS outage 2026-11-02",
+  "calibration_matches": 78,
+  "calibration_ratio_understat_over_fotmob": 1.0484443405676125,
+  "team_xg_correlation": 0.9433845197773801,
+  "team_xg_mae": 0.24918216923076925,
+  "scoreline_agreement": 1.0,
+  "injected_by_division": {
+    "E0": {
+      "injected": 9
+    },
+    "SP1": {
+      "injected": 9
+    },
+    "D1": {
+      "injected": 9
+    },
+    "I1": {
+      "injected": 12
+    },
+    "F1": {
+      "injected": 8
+    }
+  },
+  "injected_total": 47,
+  "unmatched_fotmob_rows": []
+}
