@@ -1,0 +1,135 @@
+{
+  "as_of": "2026-11-14T14:15:00+01:00",
+  "fixtures": 34,
+  "five_league_fixtures": 0,
+  "formal_approved": 0,
+  "approved_stake_cny": 0,
+  "class_counts": {
+    "2026-11-14": {
+      "一方在乎·另一方轻度": 2,
+      "主队必须赢·客队无所谓": 0,
+      "双方无所谓": 0,
+      "双方都在乎": 5,
+      "客队必须赢·主队无所谓": 1
+    },
+    "2026-11-15": {
+      "一方在乎·另一方轻度": 0,
+      "主队必须赢·客队无所谓": 0,
+      "双方无所谓": 3,
+      "双方都在乎": 5,
+      "客队必须赢·主队无所谓": 0
+    },
+    "2026-11-16": {
+      "一方在乎·另一方轻度": 2,
+      "主队必须赢·客队无所谓": 3,
+      "双方无所谓": 2,
+      "双方都在乎": 1,
+      "客队必须赢·主队无所谓": 2
+    },
+    "2026-11-17": {
+      "一方在乎·另一方轻度": 2,
+      "主队必须赢·客队无所谓": 2,
+      "双方无所谓": 0,
+      "双方都在乎": 4,
+      "客队必须赢·主队无所谓": 0
+    }
+  },
+  "must_win": [
+    {
+      "date": "2026-11-14",
+      "kickoff_cet": "11-14 20:45",
+      "match_zh": "葡萄牙 vs 丹麦",
+      "motivated_zh": "丹麦",
+      "motivation_gap": 3.947340421599818,
+      "opponent_stake": 0.1413397293130032,
+      "best_price": 4.8,
+      "market_no_vig_prob": 0.1935910832462556,
+      "ev_vs_market": -0.07076280041797323,
+      "min_price_1pct": 5.217182439726522
+    },
+    {
+      "date": "2026-11-16",
+      "kickoff_cet": "11-16 20:45",
+      "match_zh": "德国 vs 荷兰",
+      "motivated_zh": "德国",
+      "motivation_gap": 21.2396933314046,
+      "opponent_stake": 5.720422350472191,
+      "best_price": 1.833,
+      "market_no_vig_prob": 0.5122,
+      "ev_vs_market": -0.06113740000000001,
+      "min_price_1pct": 1.9718859820382664
+    },
+    {
+      "date": "2026-11-16",
+      "kickoff_cet": "11-16 20:45",
+      "match_zh": "瑞士 vs 苏格兰",
+      "motivated_zh": "苏格兰",
+      "motivation_gap": 12.25882781215872,
+      "opponent_stake": 0.0,
+      "best_price": 5.0,
+      "market_no_vig_prob": 0.1862452956958391,
+      "ev_vs_market": -0.0687735215208044,
+      "min_price_1pct": 5.42295576501138
+    },
+    {
+      "date": "2026-11-16",
+      "kickoff_cet": "11-16 20:45",
+      "match_zh": "北马其顿 vs 斯洛文尼亚",
+      "motivated_zh": "斯洛文尼亚",
+      "motivation_gap": 5.403921568627453,
+      "opponent_stake": 0.0,
+      "best_price": 1.571,
+      "market_no_vig_prob": 0.6002,
+      "ev_vs_market": -0.057085800000000075,
+      "min_price_1pct": 1.6827724091969345
+    },
+    {
+      "date": "2026-11-16",
+      "kickoff_cet": "11-16 20:45",
+      "match_zh": "直布罗陀 vs 马耳他",
+      "motivated_zh": "直布罗陀",
+      "motivation_gap": 5.0,
+      "opponent_stake": 0.0,
+      "best_price": 7.0,
+      "market_no_vig_prob": 0.1310951239008793,
+      "ev_vs_market": -0.08233413269384493,
+      "min_price_1pct": 7.704329268292683
+    },
+    {
+      "date": "2026-11-16",
+      "kickoff_cet": "11-16 18:00",
+      "match_zh": "爱沙尼亚 vs 保加利亚",
+      "motivated_zh": "爱沙尼亚",
+      "motivation_gap": 4.86829048263419,
+      "opponent_stake": 0.2264321154713577,
+      "best_price": 2.1,
+      "market_no_vig_prob": 0.4417220513837913,
+      "ev_vs_market": -0.07238369209403828,
+      "min_price_1pct": 2.2865057264765327
+    },
+    {
+      "date": "2026-11-17",
+      "kickoff_cet": "11-17 20:45",
+      "match_zh": "波黑 vs 罗马尼亚",
+      "motivated_zh": "波黑",
+      "motivation_gap": 7.812935044284082,
+      "opponent_stake": 2.41891891891892,
+      "best_price": 1.7272727272727273,
+      "market_no_vig_prob": 0.5336046639533605,
+      "ev_vs_market": -0.07831921680783194,
+      "min_price_1pct": 1.8927870542156255
+    },
+    {
+      "date": "2026-11-17",
+      "kickoff_cet": "11-17 20:45",
+      "match_zh": "威尔士 vs 葡萄牙",
+      "motivated_zh": "威尔士",
+      "motivation_gap": 3.080408988959533,
+      "opponent_stake": 0.4505734571272484,
+      "best_price": NaN,
+      "market_no_vig_prob": NaN,
+      "ev_vs_market": NaN,
+      "min_price_1pct": NaN
+    }
+  ]
+}
