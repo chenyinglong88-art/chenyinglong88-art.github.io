@@ -1,0 +1,89 @@
+{
+  "as_of": "2026-11-14T13:55:00+01:00",
+  "fixtures_remaining": 34,
+  "with_dk_odds": 24,
+  "elo_bias_home_pp": -4.469263176395966,
+  "elo_bias_away_pp": 2.3265744023960435,
+  "formal_approved": 0,
+  "approved_stake_cny": 0,
+  "top": [
+    {
+      "motivation_rank": 1,
+      "motivated_team": "Germany",
+      "opponent": "Netherlands",
+      "motivation_gap": 21.301783871443313,
+      "best_price": 1.833,
+      "consensus_no_vig_prob": 0.5119702158996453,
+      "ev_at_best_vs_consensus": -0.061558594255950116,
+      "min_price_for_1pct_ev": 1.9727710101752811,
+      "market_minus_elo_pp": 16.39093188359008
+    },
+    {
+      "motivation_rank": 2,
+      "motivated_team": "Scotland",
+      "opponent": "Switzerland",
+      "motivation_gap": 12.213290460878888,
+      "best_price": 5.0,
+      "consensus_no_vig_prob": 0.1862452956958391,
+      "ev_at_best_vs_consensus": -0.0687735215208044,
+      "min_price_for_1pct_ev": 5.42295576501138,
+      "market_minus_elo_pp": 11.452880756045891
+    },
+    {
+      "motivation_rank": 3,
+      "motivated_team": "Bosnia-Herzegovina",
+      "opponent": "Romania",
+      "motivation_gap": 8.001224684552444,
+      "best_price": NaN,
+      "consensus_no_vig_prob": NaN,
+      "ev_at_best_vs_consensus": NaN,
+      "min_price_for_1pct_ev": NaN,
+      "market_minus_elo_pp": NaN
+    },
+    {
+      "motivation_rank": 4,
+      "motivated_team": "Slovenia",
+      "opponent": "North Macedonia",
+      "motivation_gap": 5.5583554376657816,
+      "best_price": 1.571,
+      "consensus_no_vig_prob": 0.6003679634995718,
+      "ev_at_best_vs_consensus": -0.05682192934217278,
+      "min_price_for_1pct_ev": 1.6823016240118223,
+      "market_minus_elo_pp": 10.127233091742427
+    },
+    {
+      "motivation_rank": 5,
+      "motivated_team": "Estonia",
+      "opponent": "Bulgaria",
+      "motivation_gap": 4.632017612832209,
+      "best_price": 2.2,
+      "consensus_no_vig_prob": 0.4200988467874794,
+      "ev_at_best_vs_consensus": -0.07578253706754523,
+      "min_price_for_1pct_ev": 2.4041960784313727,
+      "market_minus_elo_pp": -2.716970662349394
+    },
+    {
+      "motivation_rank": 6,
+      "motivated_team": "Denmark",
+      "opponent": "Portugal",
+      "motivation_gap": 4.163527390344328,
+      "best_price": 4.8,
+      "consensus_no_vig_prob": 0.19359108324625568,
+      "ev_at_best_vs_consensus": -0.07076280041797278,
+      "min_price_for_1pct_ev": 5.217182439726519,
+      "market_minus_elo_pp": 10.315861631286847
+    },
+    {
+      "motivation_rank": 7,
+      "motivated_team": "Wales",
+      "opponent": "Portugal",
+      "motivation_gap": 3.413562783826393,
+      "best_price": NaN,
+      "consensus_no_vig_prob": NaN,
+      "ev_at_best_vs_consensus": NaN,
+      "min_price_for_1pct_ev": NaN,
+      "market_minus_elo_pp": NaN
+    }
+  ],
+  "utility_note": "Heuristic stakes weights, not backtested; rules from UEFA 12 Nov 2026 article."
+}
